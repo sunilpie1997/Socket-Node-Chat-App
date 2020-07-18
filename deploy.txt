@@ -1,0 +1,24 @@
+Note:these instructions are for deploying on heroku.
+
+Note:before proceeding,you should check if all the dependencies specified
+in package.json should be installed locally ,and then execute:ng serve to run locally.
+
+Link:
+
+Note:first signup on heroku.
+
+    create app.
+
+    install heroku cli
+
+    execute: heroku login
+
+    execute below steps inside vs code terminal.
+
+1. cd <your-project-directory>
+
+2. git init
+
+3.heroku git:remote -a <sunil-chat-app>      :your-app-name
+
+4.git push heroku master

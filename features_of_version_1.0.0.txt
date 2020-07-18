@@ -1,0 +1,21 @@
+1) whenever a new tab is opened, and the  user enters his name-->a message 
+is broadcasted to all connected users about this arrival.
+
+    ex:'sunil has joined'.
+
+2)In above case,a geeting message is sent to the new user.
+
+    ex:'welcome sunil'.
+
+3)When a user leaves-->message is broadcasted to all other connected
+ users.
+
+    ex:'sunil has left'
+
+4) Whenever a user types anything (only after he sends his first message containing his name)
+
+    a message is broadcasted to all connected users:
+
+    ex:'sunil is typing'
+
+5)In above case,when user stops typing-->'sunil is typing' message is no longer  broadcasted
