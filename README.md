@@ -2,7 +2,7 @@ Note:Procfile contain instructions for how to start the complete app.
 Note:Heroku recognizes an app as Node.js by the existence of a package.json file in the root directory.
 
 
-This is a chat application built in node.js using socket library.
+This is a chat application built in node.js using socket.io library.
 
 
 Link:https://sunil-chat-app-v1.herokuapp.com/
